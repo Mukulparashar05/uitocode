@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SRM Team Robocon</title>
+    <link rel="stylesheet" href="UI.css">
+</head>
+<body>
+    <!-- Header with SRM Team Robocon Logo and Navigation -->
+    <header>
+        <div class="logo-container">
+            <img src="// Image: logo_nb;
+            background: url("logo_nb.png");
+            background-size: cover;
+            " alt="SRM Team Robocon Logo" class="srm-logo">
+        
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Team</a></li>
+                <li><a href="#">Projects & Achievements</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#" class="login-button">Log In</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <!-- Hero Section with Title and Robot Logo -->
+    <section class="hero">
+        <h1>MAKE BREAK INNOVATE</h1>
+        <div class="robot-logo-box">
+            <img src="D:\VS CODE\.vscode\projects\Screenshot 2024-09-06 224651.png"alt="Robot Logo" class="robot-logo">
+        </div>
+    </section>
+    
+    <!-- Cards Section -->
+    <section class="cards">
+        <div class="card blue">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac congue tortor, ut luctus quam.</p>
+        </div>
+        <div class="card red">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac congue tortor, ut luctus quam.</p>
+        </div>
+        <div class="card cyan">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac congue tortor, ut luctus quam.</p>
+        </div>
+    </section>
+</body>
+</html>
